@@ -1,0 +1,37 @@
+[2025-06-20 18:50:45] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
+[2025-06-20 18:50:53] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
+[2025-06-20 18:50:53] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
+[2025-06-20 18:50:53] INFO — Scraping requested for: https://www.flipkart.com/search?q=gaming+chair&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_2_7_sc_na_na&otracker1=AS_Query_OrganicAutoSuggest_2_7_sc_na_na&as-pos=2&as-type=RECENT&suggestionId=gaming+chair&requestId=8c60dc79-bfe4-47e9-8627-4d5f8dc5c759&as-backfill=on
+[2025-06-20 18:50:53] INFO — Launching browser to scrape: https://www.flipkart.com/search?q=gaming+chair&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_2_7_sc_na_na&otracker1=AS_Query_OrganicAutoSuggest_2_7_sc_na_na&as-pos=2&as-type=RECENT&suggestionId=gaming+chair&requestId=8c60dc79-bfe4-47e9-8627-4d5f8dc5c759&as-backfill=on
+[2025-06-20 18:50:58] INFO — Website loaded successfully.
+[2025-06-20 18:51:00] INFO — Browser closed.
+[2025-06-20 18:51:00] INFO — Body content extracted successfully.
+[2025-06-20 18:51:00] INFO — DOM content cleaned and formatted.
+[2025-06-20 18:51:00] INFO — Cleaned body content generated.
+[2025-06-20 18:51:04] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
+[2025-06-20 18:51:04] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
+[2025-06-20 18:51:04] INFO — Processing batch 1 of 12
+[2025-06-20 18:51:11] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:51:15] INFO — Processing batch 2 of 12
+[2025-06-20 18:51:20] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:51:37] INFO — Processing batch 3 of 12
+[2025-06-20 18:51:45] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:52:00] INFO — Processing batch 4 of 12
+[2025-06-20 18:52:03] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:52:17] INFO — Processing batch 5 of 12
+[2025-06-20 18:52:21] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:52:41] INFO — Processing batch 6 of 12
+[2025-06-20 18:52:45] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:00] INFO — Processing batch 7 of 12
+[2025-06-20 18:53:03] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:11] INFO — Processing batch 8 of 12
+[2025-06-20 18:53:14] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:19] INFO — Processing batch 9 of 12
+[2025-06-20 18:53:22] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:27] INFO — Processing batch 10 of 12
+[2025-06-20 18:53:29] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:32] INFO — Processing batch 11 of 12
+[2025-06-20 18:53:35] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:35] INFO — Processing batch 12 of 12
+[2025-06-20 18:53:36] INFO — HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+[2025-06-20 18:53:41] INFO — Using Model: gemma3, Temp: 0.7, Top-p: 0.95, Max tokens: 512
